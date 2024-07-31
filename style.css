@@ -275,7 +275,7 @@ body {
     .header__nav {
         justify-content: center;
         gap: 1rem;
-        padding: 10px 0 10px 0;
+        padding: 10px 0 20px 0;
     }
 
     .footer{
