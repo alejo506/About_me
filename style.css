@@ -141,7 +141,6 @@ body {
     background-color: var(--color-terciario);
     color: var(--color-primario);
     font: 500 var(--letra-pequena) var(--fuente-montserrat);
-    ;
     padding: 0.7rem 0rem;
     position: absolute;
     text-align: center;
