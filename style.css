@@ -195,7 +195,7 @@ body {
     
     .presentacion__contenido__titulodinamic {
         height: 20px; /* Ajustar altura para pantallas más pequeñas */
-        line-height: 1.5;
+        line-height: 2;
     }
 
 
@@ -216,7 +216,7 @@ body {
 
     .presentacion__contenido__texto {
         margin-bottom: 75px;
-        line-height: 1.5;
+        line-height: 2;
     }
 
     .presentacion__enlaces {
@@ -252,7 +252,7 @@ body {
 @media (max-width: 400px) {
     .presentacion__contenido__titulodinamic {
         height: 5rem; /* Ajustar altura para pantallas más pequeñas */
-        line-height: 1.5;
+        line-height: 2;
     }
 
     .presentacion__imagen {
@@ -265,7 +265,7 @@ body {
     }
 
     .presentacion__contenido__texto{
-        line-height: 1.5;
+        line-height: 2;
     }
 
     .header {
